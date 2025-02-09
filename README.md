@@ -27,4 +27,4 @@ git clone https://github.com/pablo727/crypto-market-trends.git
 
 ## Acknowledgements
 - Data sourced from https://www.coingecko.com/
-- Libraries used: matplotlib, pathlib, csv, datetime 
+- Libraries used: matplotlib, pathlib, csv, datetime.
