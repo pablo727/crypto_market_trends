@@ -1,6 +1,6 @@
 # Crypto Market Trends Analysis
 
-A Python project to analyze and visualize cryptocurrency market trends, with a focus on price, market cap, and volume for various coins.
+A Python project to analyze and visualize cryptocurrency market trends, with a focus on price and market cap for various coins.
 
 ## Getting Started
 
