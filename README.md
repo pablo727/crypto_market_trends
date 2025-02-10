@@ -22,7 +22,7 @@ git clone https://github.com/pablo727/crypto-market-trends.git
 ```
 
 ## Project Structure
-- xmr.py, XRP.py, eth.py: Script to fetch, analyze, and plot Monero, Ripple and Ethereum price and market cap.
+- xmr.py, xrp.py, eth.py: Script to fetch, analyze, and plot Monero, XRP and Ethereum price and market cap.
 - data/: Folder containing the CSV files for various cryptocurrencies.
 
 ## Acknowledgements
