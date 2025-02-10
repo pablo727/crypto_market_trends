@@ -18,11 +18,11 @@ These instructions will help you get the project up and running on your local ma
 git clone https://github.com/pablo727/crypto-market-trends.git
 - Run the analysis script：
 ```bash
-  python xmr.py
+  python filename.py
 ```
 
 ## Project Structure
-- xmr.py: Script to fetch, analyze, and plot the Monero price and market cap.
+- xmr.py, XRP.py, eth.py: Script to fetch, analyze, and plot Monero, Ripple and Ethereum price and market cap.
 - data/: Folder containing the CSV files for various cryptocurrencies.
 
 ## Acknowledgements
